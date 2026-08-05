@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "post_id": "182739485012394",
+      "author_id": "987654321",
+      "content": "Hello, world!",
+      "media_urls": ["https://cdn.example.com/media/123.jpg"],
+      "likes_count": 42,
+      "comments_count": 5,
+      "created_at": "2026-08-05T12:00:00Z"
+    }
+  ],
+  "next_cursor": "182739485012000"
+}
